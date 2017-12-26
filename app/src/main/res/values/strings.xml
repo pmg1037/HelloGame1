@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hello Game</string>
     <string name="name">ปิยะเทพ มหาสันติปิยะ</string>
+    <string name="game">เกมส์</string>
 </resources>
